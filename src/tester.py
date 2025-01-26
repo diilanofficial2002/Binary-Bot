@@ -1,0 +1,1 @@
+print("Hello, Main!", "I'm a diilan!")
