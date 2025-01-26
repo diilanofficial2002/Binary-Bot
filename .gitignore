@@ -1,0 +1,12 @@
+# Temp file
+temp/
+Temp/
+test.*
+Test/
+
+# Log file
+log/
+
+# virtual environment
+.env/
+.venv/
