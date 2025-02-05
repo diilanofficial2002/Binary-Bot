@@ -11,3 +11,6 @@ Logs/
 # virtual environment
 .env/
 .venv/
+
+# Unnecessary files
+Models/unstable/EURUSD_15m_model.pkl
