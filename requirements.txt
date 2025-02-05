@@ -4,3 +4,8 @@ matplotlib
 scikit-learn
 imbalanced-learn
 seaborn
+pandas_ta
+pynput
+pyautogui
+speedtest-cli
+requests

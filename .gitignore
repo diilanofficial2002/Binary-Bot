@@ -6,6 +6,7 @@ Test/
 
 # Log file
 log/
+Logs/
 
 # virtual environment
 .env/
