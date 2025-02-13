@@ -1,2 +1,0 @@
-Best parameters: {'criterion': 'entropy', 'max_depth': 100, 'max_features': 'log2', 'n_estimators': 200}
-Best score: 0.7403601108879528
