@@ -7,6 +7,7 @@ Test/
 # Log file
 log/
 Logs/
+logs/
 
 # virtual environment
 .env/
@@ -14,3 +15,7 @@ Logs/
 
 # Unnecessary files
 Models/unstable/EURUSD_15m_model.pkl
+Data/raw/kaggle-dataset
+
+# secret
+.env
